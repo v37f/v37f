@@ -28,8 +28,8 @@
 ### ⚙️ GitHub статистика:
 
 <div>
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=v37f&theme=dark&background=000000" alt="webDev's Github stats" />
-  <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v37f&layout=compact&theme=vision-friendly-dark" />
+  <img width="51%" align="top"  src="http://github-readme-streak-stats.herokuapp.com?user=v37f&theme=dark&background=000000" alt="webDev's Github stats" />
+  <img  width="47%" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v37f&layout=compact&theme=vision-friendly-dark" />
 </div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=v37f)
