@@ -1,8 +1,13 @@
 ### Привет, меня зовут Владимир 👋
 
 ---
+### 🧑 Обо мне:
+Я frontend-разработчик из Москвы. Вебом занимаюсь с 2022 года. Мне нравится искать решения новых для меня задач и видеть результат своей работы. Люблю изучать новые технологии и применять их на практике. В настоящее время нахожусь в поиске работы.
 
-### 💻 Технологии и инструменты:
+#### :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Frolov_Vladimir-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/v3sevenf)
+---
+
+### 🛠 Технологии и инструменты:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -17,6 +22,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### ⚙️ GitHub статистика:
+
+<div>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=v37f&theme=dark&background=000000" alt="webDev's Github stats" />
+  <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v37f&layout=compact&theme=vision-friendly-dark" />
+</div>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=v37f)
+
 <!--
 **v37f/v37f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
